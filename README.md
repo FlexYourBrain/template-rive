@@ -14,4 +14,4 @@ Happy Defolding!
 
 ## Credits
 
-* Rive model by Nerdfigure
+* Rive model by Agustin R.
