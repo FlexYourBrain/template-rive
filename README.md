@@ -15,4 +15,4 @@ Happy Defolding!
 ## Credits
 
 * Rive model by Agustin R.
-** Optional - Rive Editable `Defold_Splash.rev` file can be downloaded at https://github.com/FlexYourBrain/defold_splash-REV
+  * Optional - Rive Editable `Defold_Splash.rev` file can be downloaded at https://github.com/FlexYourBrain/defold_splash-REV
